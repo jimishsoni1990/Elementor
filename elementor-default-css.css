@@ -1,0 +1,93 @@
+/**********************************************************
+	Elemntor 
+**********************************************************/
+.elementor-button.elementor-size-xs {
+    font-size: 13px;
+    padding: 10px 20px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+}
+.elementor-button.elementor-size-sm {
+    font-size: 15px;
+    padding: 12px 24px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+.elementor-button.elementor-size-md {
+    font-size: 16px;
+    padding: 15px 30px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+}
+.elementor-button.elementor-size-lg {
+    font-size: 18px;
+    padding: 20px 40px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+.elementor-button.elementor-size-xl {
+    font-size: 20px;
+    padding: 25px 50px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+}
+
+.elementor-element.elementor-button-info .elementor-button {
+    background-color: #5bc0de;
+}
+.elementor-element.elementor-button-danger .elementor-button {
+    background-color: #d9534f;
+}
+.elementor-element.elementor-button-success .elementor-button {
+    background-color: #5cb85c;
+}
+.elementor-element.elementor-button-warning .elementor-button {
+    background-color: #f0ad4e;
+}
+
+/* H1 */
+.elementor-widget-heading .elementor-heading-title{
+	font-size: 24px;
+}
+
+/* H2 */
+.elementor-widget-heading .elementor-heading-title{
+	font-size: 24px;
+}
+
+/* H3 */
+.elementor-widget-heading .elementor-heading-title{
+	font-size: 18.71px;
+}
+
+/* H4 */
+.elementor-widget-heading .elementor-heading-title{
+	font-size: 16px;
+}
+
+/* H5 */
+.elementor-widget-heading .elementor-heading-title{
+	font-size: 13.28px;
+}
+
+/* H6 */
+.elementor-widget-heading .elementor-heading-title{
+	font-size: 13.28px;
+}
+
+/* Heading widget size options */
+.elementor-widget-heading .elementor-heading-title.elementor-size-small {
+    font-size: 15px;
+}
+.elementor-widget-heading .elementor-heading-title.elementor-size-medium {
+    font-size: 19px;
+}
+.elementor-widget-heading .elementor-heading-title.elementor-size-large {
+    font-size: 29px;
+}
+.elementor-widget-heading .elementor-heading-title.elementor-size-xl {
+    font-size: 39px;
+}
+.elementor-widget-heading .elementor-heading-title.elementor-size-xxl {
+    font-size: 59px;
+}
